@@ -1,14 +1,15 @@
 ## FindJob
 Web Application Portal Vacancy
 
-##Screenshot
+## Screenshot
 
 ![homepage](assets/img/homepage.PNG)
 
-##Database
+## Database
 
 lakukan import file *.sql ke dalam database bernama findjob otomatis akan tercipta table-tablenya
+
 ![tables](assets/img/tables.PNG)
 
-##Contact
+## Contact
 Interested untuk mengembangkan aplikasi serupa? HUB. dickymujantara@gmail.com
