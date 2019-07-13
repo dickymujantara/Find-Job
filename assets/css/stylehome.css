@@ -1,0 +1,25 @@
+.nav .navbar-nav .navbar-right .nav-item .nav-link img{
+	width: 30px !important;
+}
+.nav-item .nav-link{
+	color: white !important;
+}
+#sidebar{
+	margin-top: 20px;
+}
+section{
+	float: right;
+}
+#post{
+	position: relative;
+    right: 175px;
+	bottom: 255px;
+	margin-bottom: 15px;
+}
+.hero-img{
+	background-image: url('assets/img/bg-home-fj.jpg');
+    height: 700px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

@@ -1,0 +1,42 @@
+.navbar{
+	padding: 1.85%;
+}
+.navbar form img{
+	width: 20px;
+}
+.navbar form{
+	margin-left: 5%;
+	width: 40% !important;
+}
+.navbar form .form-control{
+	width: 80% !important;
+}
+.navbar-nav .nav-item .nav-link img{
+	width: 30px ;
+}
+.sidebar-heading img{
+		width:120px;
+		height: 60px;
+}
+#sidebar-wrapper{
+	background: url(assets/img/bg-dashboard-sidebar.jpg);
+}
+#sidebar-wrapper .list-group{
+	margin-top: 5% !important;
+}
+#sidebar-wrapper .list-group-item{
+	border: none!important;
+}
+#sidebar-wrapper .list-group-item img{
+	float: left !important;
+	width: 30px !important;
+}
+#overview{
+	margin-top: 10px;	
+}
+#table-message{
+	background-color: white !important;
+}
+#calendar,#time{
+	display: inline-block;
+}
