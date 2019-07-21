@@ -1,4 +1,4 @@
-##Tutorials (Non-Developers)
+## TUTORIALS (Non-Developers)
 
 > untuk membuat post vacancy bisa dilakukan pada /post-create.php
 

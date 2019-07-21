@@ -1,4 +1,4 @@
-##Tutorials (Developers)
+## TUTORIALS (Developers)
 
 > Customization logo web (Favivcon)
 Cari file home.php lalu ubah/tambahkan link icon yg berada pada <head> tag
@@ -19,4 +19,5 @@ Cari file home.php lalu ubah/tambahkan link icon yg berada pada <head> tag
 
 
 > untuk menambahkan api juga disarankan untuk dimasukan kedalam folder api/
+
 ![Image](../../assets/img/api.png)
