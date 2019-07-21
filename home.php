@@ -9,7 +9,6 @@
   $datas = mysqli_query($conn,$sql)
 
 ?>
-
 <!DOCTYPE html>
 <html>
 <head>
