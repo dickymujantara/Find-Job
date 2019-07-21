@@ -7,11 +7,11 @@ Web Application Portal Vacancy
 
 ##Tutorials (Developers)
 
-[Developers.](tutorial/developer)
+[Developers.](/tutorial/developer)
 
 ##Tutorials (Non-Developers)
 
-[Non-Developers.](tutorial/non-developer)
+[Non-Developers.](/tutorial/non-developer)
 
 
 ##Database
