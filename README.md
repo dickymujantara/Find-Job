@@ -5,13 +5,13 @@ Web Application Portal Vacancy
 
 ![homepage](assets/img/homepage.PNG)
 
-##Tutorials (Developers)
+## Tutorials (Developers)
 
-[Developers.](/tutorial/developer)
+[Developers.](tutorial/developer)
 
-##Tutorials (Non-Developers)
+## Tutorials (Non-Developers)
 
-[Non-Developers.](/tutorial/non-developer)
+[Non-Developers.](tutorial/non-developer)
 
 
 ##Database
