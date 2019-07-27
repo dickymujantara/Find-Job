@@ -1,12 +1,12 @@
 <?php
-  session_start();
-  $role = $_SESSION['role'];
-  $name = $_SESSION['user'];
+  // session_start();
+  // $role = $_SESSION['role'];
+  // $name = $_SESSION['user'];
 
-  if ($role != "company") {
-    header('location: /home.php');
-    die();
-  }
+  // if ($role != "company") {
+  //   header('location: /home.php');
+  //   die();
+  // }
 
 ?>
 

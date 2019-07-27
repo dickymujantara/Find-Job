@@ -3,7 +3,8 @@
   session_start();
   include('config.php');
 
-  $name = $_SESSION['user'];
+  // $name = $_SESSION['user'];
+  $name = "Dicky";
 
   $sql = "SELECT * FROM post_vacancy ORDER BY id DESC";
   $datas = mysqli_query($conn,$sql)

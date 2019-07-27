@@ -1,25 +1,2 @@
-.nav .navbar-nav .navbar-right .nav-item .nav-link img{
-	width: 30px !important;
-}
-.nav-item .nav-link{
-	color: white !important;
-}
-#sidebar{
-	margin-top: 20px;
-}
-section{
-	float: right;
-}
-#post{
-	position: relative;
-    right: 175px;
-	bottom: 255px;
-	margin-bottom: 15px;
-}
-.hero-img{
-	background-image: url('assets/img/bg-home-fj.jpg');
-    height: 700px;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
+/* OBFUSCATED BY CSSOBFUSCATOR.COM at 2019/07/27 11:43:20 */
+.hero-img{background-image:url("assets/img/bg-home-fj.jpg");}#sidebar{margin-top:15pt;}section{float:right;}.hero-img{height:7.291666667in;}#post{position:relative;}#post{right:10.9375pc;}#post{bottom:2.65625in;}[class~=nav] [class~=navbar-nav] [class~=navbar-right] [class~=nav-item] [class~=nav-link] img{width:30px !important;}.hero-img{background-position:center;}#post{margin-bottom:15px;}.hero-img{background-repeat:no-repeat;}[class~=nav-item] [class~=nav-link]{color:white !important;}.hero-img{background-size:cover;}
